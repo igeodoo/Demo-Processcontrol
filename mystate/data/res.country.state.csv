@@ -1,0 +1,5 @@
+id,name,country_id
+fr_state.1,Ain ,base.fr
+fr_state.2,Mayenne,base.fr
+fr_state.3,Anjou,base.fr
+fr_state.4,Touraine,base.fr
