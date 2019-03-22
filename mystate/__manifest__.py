@@ -11,7 +11,6 @@ Importing France States
 """,
     'depends': ['crm'],
     'data': [
-        'data/res.country.state.csv',
-        
+        'data/res.country.state.csv',  
     ],
   }
